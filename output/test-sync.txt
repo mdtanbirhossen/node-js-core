@@ -1,0 +1,2 @@
+Today was a good day. I learned about Node.js file system module. 
+I wrote some code to read and write files asynchronously and synchronously.
